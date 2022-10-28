@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
-namespace WpfApp_dz2
+namespace Console_Test
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
